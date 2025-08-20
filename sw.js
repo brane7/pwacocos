@@ -1,4 +1,4 @@
-const CACHE_NAME = 'click-game-runtime-v4';
+const CACHE_NAME = 'click-game-runtime-v5';
 
 // ServiceWorker 설치 시 - 사전 캐시 없이 즉시 활성화
 self.addEventListener('install', (event) => {
